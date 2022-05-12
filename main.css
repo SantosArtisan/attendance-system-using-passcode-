@@ -1,0 +1,9 @@
+
+    .navv a{
+      color: #fff;
+    }
+    .navv ul li a:hover{
+      color: #fff;
+      background-color: lightblue;
+    }
+
